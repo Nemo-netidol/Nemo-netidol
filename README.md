@@ -5,6 +5,7 @@ Computer Science freshman at Kasetsart university
 
 * 🌍  I'm based in Bangkok, Thailand
 * 🧠  I'm learning Machine learning concept
+* 🎂  December 8th is my birthday
 * ⚡  Looking for unsigned long long term relationship
 
 ### Skills
