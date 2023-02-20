@@ -23,6 +23,9 @@ Computer Science freshman at Kasetsart University 🏫
 
 <b>My GitHub Stats</b>
 
+<img align=“center” src=“https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prokittikun&line_height=21&theme=dracula” alt=“prokittikun” />
+<img align=“center” src=“https://github-readme-streak-stats.herokuapp.com/?user=prokittikun&” alt=“prokittikun” />
+
 <a href="http://www.github.com/Nemo-netidol"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Nemo-netidol&stroke=000000&background=ffffff&ring=22c55e&fire=22c55e&currStreakNum=000000&currStreakLabel=22c55e&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
 
 <a href="https://github.com/Nemo-netidol" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nemo-netidol&langs_count=10&title_color=22c55e&text_color=000000&icon_color=22c55e&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
