@@ -3,7 +3,7 @@
 
 Computer Science freshman at Kasetsart University 🏫
 * 🌍  I'm based in **Bangkok, Thailand**
-* 🧠  I'm learning **Machine learning**
+* 🧠  I'm learning **Data Science & Machine learning**
 * 🎂    **December 8th** is my birthday
 * 💬   Ask me about **Japanese language**
 * ⚡  Looking for **unsigned long long term relationship**
