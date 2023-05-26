@@ -25,6 +25,6 @@ Computer Science freshman at Kasetsart University 🏫
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nemo-netidol&show_icons=true&locale=en&title_color=22c55e&text_color=000000&icon_color=22c55e&bg_color=ffffff" alt="nemo-netidol" /></p>
 
 <a href="http://www.github.com/Nemo-netidol"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Nemo-netidol&stroke=000000&background=ffffff&ring=22c55e&fire=22c55e&currStreakNum=000000&currStreakLabel=22c55e&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
-<!-- 
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nemo-netidol&show_icons=true&locale=en&layout=compact&title_color=22c55e&text_color=000000&icon_color=22c55e&bg_color=ffffff" alt="nemo-netidol" /></p> --> -->
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nemo-netidol&show_icons=true&locale=en&layout=compact&title_color=22c55e&text_color=000000&icon_color=22c55e&bg_color=ffffff" alt="nemo-netidol" /></p>
 
