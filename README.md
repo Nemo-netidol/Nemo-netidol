@@ -17,14 +17,3 @@ Computer Science freshman at Kasetsart University 🏫
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/443065525715599371" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Nemo-netidol" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/nnem_____/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nemo-netidol&show_icons=true&locale=en&title_color=22c55e&text_color=000000&icon_color=22c55e&bg_color=ffffff" alt="nemo-netidol" /></p>
-
-<a href="http://www.github.com/Nemo-netidol"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Nemo-netidol&stroke=000000&background=ffffff&ring=22c55e&fire=22c55e&currStreakNum=000000&currStreakLabel=22c55e&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nemo-netidol&show_icons=true&locale=en&layout=compact&title_color=22c55e&text_color=000000&icon_color=22c55e&bg_color=ffffff" alt="nemo-netidol" /></p>
-
