@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nemo</h1>
 
 
-Computer Science freshman at Kasetsart University 🏫
+Computer Science student at Kasetsart University 🏫
 * 🌍  I'm based in **Bangkok, Thailand**
 * 🧠  I'm learning **Data Science & Machine learning**
 * 🎂    **December 8th** is my birthday
