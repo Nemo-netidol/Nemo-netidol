@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nemo</h1>
 
 
-<img align="right" width="350" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW9lY3Q3YThxaTFqMmhleDBocmVidnJwd3dteGkwMHF5cXRmNmVzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eYChQYDXWPUXV6ejQw/giphy.gif" /> 
+<img align="right" width="350" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXQ1Njd1ZnA1a2F4djdyY2d2M2o3ajV1a3J3Y2E1aHpzem95NXJmbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8GWrWfrMP6OOVyjiKh/giphy.gif" alt="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW9lY3Q3YThxaTFqMmhleDBocmVidnJwd3dteGkwMHF5cXRmNmVzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eYChQYDXWPUXV6ejQw/giphy.gif"  /> 
 
    Computer Science student at Kasetsart University 🏫
 * 🌍  I'm based in **Bangkok, Thailand**
@@ -13,8 +13,6 @@
 
 
 
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>
